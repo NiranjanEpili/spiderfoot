@@ -174,3 +174,6 @@ cover/
 # Documentation #
 #################
 docs/_build/
+
+# CI / Workflows
+.github/workflows/
